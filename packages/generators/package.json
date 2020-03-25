@@ -30,7 +30,7 @@
     "@types/inquirer": "6.5.0",
     "@types/lodash": "4.14.149",
     "@types/log-symbols": "3.0.0",
-    "@types/mkdirp": "0.5.2",
+    "@types/mkdirp": "1.0.0",
     "@types/node": "13.9.1",
     "@types/webpack-dev-server": "3.10.1",
     "@types/yeoman-assert": "^3.1.1",
